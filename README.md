@@ -87,6 +87,7 @@ The best-performing model is selected based on RMSE.
 ## 🌐 Streamlit Web Application
 
 An interactive web application is developed using Streamlit.
+Try my students performance in exam application:https://wafer-monitor-rudder.ngrok-free.dev
 
 Users can enter student details, including:
 
